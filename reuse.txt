@@ -1,0 +1,12 @@
+<!-- <section class="hero" style="background-color: #003549; color: #fff;">
+        <h2 style="text-transform: uppercase; font-weight: bolder; color: #fff;">Welcome to EduConnect</h2>
+        <p>Your one-stop destination for all your educational needs.</p> -->
+       
+    <!-- </section>  -->
+
+    -----welcome message -------
+ <!-- <section id="about" style="width: 600px; justify-content: center;text-align: justify;
+text-justify: inter-word; background-color: #023047; color: #fff; text-transform: uppercase;"> -->
+    <!-- <h2 style="text-align: center; text-transform: uppercase; color: #fff; background-color: #00171f; background-color: white; color:black; border: 4px solid #003549; ">About EduConnect</h2> -->
+
+    -----after welcome text ------ 
